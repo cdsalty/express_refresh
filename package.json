@@ -1,0 +1,16 @@
+{
+  "name": "tea_manager",
+  "version": "1.0.0",
+  "description": "a follow along for express refresher",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Christopher Soltis",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
